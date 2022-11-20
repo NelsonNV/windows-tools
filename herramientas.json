@@ -1,0 +1,52 @@
+{
+    "0": {
+      "nombre": "Buscar amenazas",
+      "comando": "mrt",
+      "info": "Herramienta nativa que busca posibles amenazas o virus en sistema"
+    },
+    "1": {
+      "nombre": "estado del disco",
+      "comando": "chkdsk",
+      "info": "Herramienta Nativa que escanea el estado de los discos"
+    },
+    "2": {
+      "nombre": "control de usuarios",
+      "comando": "netplwiz",
+      "info": "Herramienta Nativa que permite controlar los usuarios del equipo"
+    },
+    "3": {
+      "nombre": "configuraciones del sistema",
+      "comando": "msconfig",
+      "info": "Herramienta Nativa que nos permite controlar configuraciones del sistema"
+    },
+    "4": {
+      "nombre": "Historial de Errores de ejecucion",
+      "comando": "perfmon /rel",
+      "info": "Herramienta nativa que nos permite ver los herrores que se ejecutaron en windows"
+    },
+    "5": {
+      "nombre": "activar windows",
+      "info": "Herramienta De activacion de windows opensource",
+      "comando": "echo aun no existe comando"
+    },
+    "6": {
+      "nombre": "quitar marca de agua",
+      "info": "configuracion nativa de windows que quitara la marca de agua",
+      "comando": "bcedit -set TESTSIGNING OFF"
+    },
+    "7": {
+      "nombre": "controlador de redes",
+      "info": " controlaor nativo de conexion de redes",
+      "comando": "ncpa.cpl"
+    },
+    "8": {
+      "nombre": "Reparar archivos dañados del sistema",
+      "info": "buscara archivos dañados de tu pc y los reparara",
+      "comando": "sfc /scannow"
+    },
+    "9": {
+      "nombre": "limpiar ip",
+      "info": "Herramienta nativa que Libera todas las conexiones",
+      "comando": "ipconfig /release"
+    }
+  }
