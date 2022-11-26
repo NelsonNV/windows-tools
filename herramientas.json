@@ -48,5 +48,10 @@
       "nombre": "limpiar ip",
       "info": "Herramienta nativa que Libera todas las conexiones",
       "comando": "ipconfig /release"
+    },
+    "10": {
+      "nombre": "limpiar DNS",
+      "info": "Herramienta nativa elimna registro de las dns o de las paginas alas que as entrado",
+      "comando": "ipconfig /flushdns"
     }
   }
